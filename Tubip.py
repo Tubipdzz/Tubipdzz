@@ -131,7 +131,7 @@ help =  """
 \033[35m                ╔═══════════════════════════════════════════════╗
 \033[35m                ║\033[32m                      Help                     \033[35m║
 \033[35m                ║\033[32m                                               \033[35m║
-\033[35m                ║\033[32m             ? - Help menu #DagTriZaker        \033[35m║
+\033[35m                ║\033[32m             ? - Help menu #Phamvantudz        \033[35m║
 \033[35m                ║\033[32m              methods - Shows methods          \033[35m║
 \033[35m                ║\033[32m               exit - Exit JokerNet            \033[35m║
 \033[35m                ║\033[32m            updates - Show update logs         \033[35m║
