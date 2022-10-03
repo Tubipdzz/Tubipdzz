@@ -1,3 +1,19 @@
+#!/usr/bin/env python
+#coding: utf-8 -*- and #-*- coding: utf-7 -*-
+#..:: > Joker < ::..
+# Mod By Phạm văn Tú
+
+from operator import index
+import sys
+import socket
+import time
+import random
+import threading
+import getpass
+import os
+import urllib
+import json
+
 methods = """
 \033[35m╔════════════════════════╗
 \033[35m║ \033[36m---- \033[32mMethods List! \033[36m--- \033[35m╚══════════╗
